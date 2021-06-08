@@ -1,0 +1,49 @@
+.main-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding-top: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.header-image {
+    width: 35%;
+}
+
+.main-blurb {
+    font-size: 18px;
+    margin-bottom: 0;
+    line-height: 1.8em;
+    font-weight: 300;
+}
+
+.klesis-blurb {
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 0.06em;
+}
+
+.klesis-container {
+    overflow: hidden;
+    padding-bottom: 30px;
+}
+
+.klesis-photo {
+    width: 130%;
+    position: relative;
+    left: -15%;
+}
+
+.container {
+    margin-top: 4%;
+}
+
+.klesis-blurb {
+    margin-top: 8%;
+    text-transform: uppercase;
+    color: #404040;
+}
+
+.klesis-click-target:hover {
+    text-decoration: none;
+}
